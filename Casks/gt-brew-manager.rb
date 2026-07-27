@@ -1,8 +1,8 @@
 cask "gt-brew-manager" do
-  version "1.0.5-55"
-  sha256 "a15bdf8086c971b8829a4a03ebf5248581aed82d400684e9a5a6055976bc1c77"
+  version "1.0.7-57"
+  sha256 "18bb3a54ea803647c157ccde22abe325ec223033ae71803cd9b9b5b61be12ce8"
 
-  url "https://github.com/getangar/homebrew-gtbrewmanager/releases/download/v1.0.5-55/GT.Brew.Manager.dmg"
+  url "https://github.com/getangar/homebrew-gtbrewmanager/releases/download/v1.0.7-57/GT.Brew.Manager.dmg"
   name "GT Brew Manager"
   desc "Native macOS GUI for Homebrew formulae, casks and services"
   homepage "https://github.com/getangar/GTBrewManager"
